@@ -130,4 +130,32 @@ Tudo exibido diretamente no terminal.
 
 * É necessário ter conexão com a internet
 * As APIs utilizadas podem ter limites de requisição
-* As chaves de API estão no c
+* As chaves de API estão no código (ideal usar variáveis de ambiente em produção)
+
+---
+
+## 🔐 Melhorias futuras
+
+* Interface gráfica (web ou app)
+* Favoritar músicas
+* Cache de resultados
+* Autenticação de usuário
+* Deploy online
+
+---
+
+## 👨‍💻 Autor
+
+**Yuri Alves**
+
+---
+
+## ⭐ Contribuição
+
+Sinta-se à vontade para contribuir com melhorias no projeto!
+
+---
+
+## 📌 Status do projeto
+
+🚧 Em desenvolvimento / Aprendizado
