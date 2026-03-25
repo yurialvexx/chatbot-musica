@@ -1,8 +1,8 @@
 const axios = require("axios");
 
 async function getSpotifyToken() {
-  const CLIENT_ID = "a0fafe02adbe449fa6a1b70767f4d028";
-  const CLIENT_SECRET = "787d947810184b118e659671ca5e4de9";
+  const CLIENT_ID = "SUA CHAVE AQUI";
+  const CLIENT_SECRET = "SUA CHAVE AQUI";
 
   const resp = await axios.post(
     "https://accounts.spotify.com/api/token",
