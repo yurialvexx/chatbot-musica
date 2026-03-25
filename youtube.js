@@ -1,5 +1,5 @@
 const axios = require("axios");
-const API_KEY = "AIzaSyAH9ydl-IdlYxei8NrugUbE8Pv18nyXLPE";
+const API_KEY = "SUA CHAVE AQUI";
 
 async function searchYoutube(query, max = 5) {
     const response = await axios.get("https://www.googleapis.com/youtube/v3/search", {
